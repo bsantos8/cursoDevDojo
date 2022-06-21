@@ -1,2 +1,1 @@
-# codetraining
-codigos de cursos
+codigos do curso DevDojo
